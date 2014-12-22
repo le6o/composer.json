@@ -1,0 +1,7 @@
+{
+	"require": {
+		"phpunit/phpunit": "~4",
+		"squizlabs/php_codesniffer": "~2",
+		"fabpot/php-cs-fixer": "~1"
+	}
+}
