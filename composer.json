@@ -2,6 +2,8 @@
 	"require": {
 		"phpunit/phpunit": "~4",
 		"squizlabs/php_codesniffer": "~2",
-		"fabpot/php-cs-fixer": "~1"
+		"fabpot/php-cs-fixer": "~1",
+		"sebastian/phpcpd": "~2.0",
+		"phpmd/phpmd": "~2.1"
 	}
 }
