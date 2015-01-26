@@ -6,6 +6,7 @@
 		"sebastian/phpcpd": "~2.0",
 		"phpmd/phpmd": "~2.1",
 		"phing/phing": "~2.9",
-		"sensiolabs/security-checker": "~2.0"
+		"sensiolabs/security-checker": "~2.0",
+		"d11wtq/boris": "~1.0"
 	}
 }
