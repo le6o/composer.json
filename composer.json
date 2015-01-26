@@ -5,6 +5,7 @@
 		"fabpot/php-cs-fixer": "~1",
 		"sebastian/phpcpd": "~2.0",
 		"phpmd/phpmd": "~2.1",
-		"phing/phing": "~2.9"
+		"phing/phing": "~2.9",
+		"sensiolabs/security-checker": "~2.0"
 	}
 }
