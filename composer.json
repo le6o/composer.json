@@ -7,6 +7,8 @@
 		"phpmd/phpmd": "~2.1",
 		"phing/phing": "~2.9",
 		"sensiolabs/security-checker": "~2.0",
-		"d11wtq/boris": "~1.0"
+		"d11wtq/boris": "~1.0",
+		"laravel/installer": "~1.1",
+		"laravel/homestead": "~2.0"
 	}
 }
