@@ -7,7 +7,6 @@
 		"phpmd/phpmd": "*",
 		"phing/phing": "*",
 		"sensiolabs/security-checker": "*",
-		"d11wtq/boris": "*",
 		"laravel/installer": "*",
 		"laravel/homestead": "*",
 		"vinkla/climb": "*"
