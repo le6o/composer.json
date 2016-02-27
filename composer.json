@@ -1,14 +1,14 @@
 {
 	"require": {
-		"phpunit/phpunit": "*",
-		"squizlabs/php_codesniffer": "*",
 		"fabpot/php-cs-fixer": "*",
-		"sebastian/phpcpd": "*",
-		"phpmd/phpmd": "*",
-		"phing/phing": "*",
-		"sensiolabs/security-checker": "*",
-		"laravel/installer": "*",
 		"laravel/homestead": "*",
+		"laravel/installer": "*",
+		"phing/phing": "*",
+		"phpmd/phpmd": "*",
+		"phpunit/phpunit": "*",
+		"sebastian/phpcpd": "*",
+		"sensiolabs/security-checker": "*",
+		"squizlabs/php_codesniffer": "*",
 		"vinkla/climb": "*"
 	}
 }
