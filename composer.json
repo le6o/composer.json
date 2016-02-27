@@ -9,6 +9,7 @@
 		"sensiolabs/security-checker": "*",
 		"d11wtq/boris": "*",
 		"laravel/installer": "*",
-		"laravel/homestead": "*"
+		"laravel/homestead": "*",
+		"vinkla/climb": "*"
 	}
 }
